@@ -1,0 +1,105 @@
+#EXTM3U
+# ===== Premier filmek =====
+#EXTINF:-1,Fegyverek -Weapons (2025) HD
+#EXTGRP:Premier Filmek 
+https://hls1-cdn38.cloudlionscdn.com/hls/rjkhIwgPLYVkX9SVcscKLyw335TRv2/index_2592x1080.m3u8
+#EXTINF:1,Szuper jégciklon
+#EXTGRP:Filmek Premier 2025
+https://hls1-cdn38.cloudlionscdn.com/hls/caVPW5TZvJrZyxkaOJTjAxkYRxB9tF/index_1280x720.m3u8
+#EXTINF:1,Nő az udvaron (2025) horror
+#EXTGRP:Filmek Premier 2025
+https://hls2-cdn32.cloudlionscdn.com/hls/AYhRwmZlRca3MWosWSYMeGL9GodS4D/index_2580x1080.m3u8
+#EXTINF:1,Hosszú menetelés 2025
+#EXTGRP:Filmek Premier 2025
+https://hls1-cdn38.cloudlionscdn.com/hls/GhIeZQrvP9W1uiHSaIRXOIRBTMWW6z/index_2592x1080.m3u8
+#EXTINF:1,Csütörtöki nyomozóklub 
+#EXTGRP:Filmek Premier 2025
+https://hls2-cdn30.strmupcdn.cc/hls/akM4hIvjpUufHOAAeMEq0jOsI1b4JN/index_1920x1080.m3u8
+#EXTINF:1,Hellboy-The croocked Man 2025
+#EXTGRP:Filmek Premier 2025
+https://hls2-cdn32.cloudlionscdn.com/hls/YAAVRCsnT7mxXb4AvC7BOjIGftTAZU/index_2582x1080.m3u8
+#EXTINF:1,Kémkölykök -Armageddon 2025
+#EXTGRP:Filmek Premier 2025
+https://s2-hls1-cdn43.rdr2games.com/hls/RXNyWxLgAXjXkzvjnYBCZfUDx6EFJs/index_1920x1080.m3u8
+#EXTINF:1,A másik oldal -Putyin frontvonalaán 2025
+#EXTGRP:Filmek Premier 2025
+https://s2-hls1-cdn43.rdr2games.com/hls/Km1roS1MxGjVvq6ohDLhznBut2CXrl/index_1920x1080.m3u8
+#EXTINF:1,Mindig eljön az éj 2025
+#EXTGRP:Filmek Premier 2025
+https://hls2-cdn31.cloudlionscdn.com/hls/v8WvqvAC6uoaSV6ppA9lPELlM4i96D/index_1920x1080.m3u8
+#EXTINF:1,Karate Kid -Legendák 20025
+#EXTGRP:Filmek Premier 2025
+https://hls2-cdn37.cloudlionscdn.com/hls/uwXe6d9SN8gFqLfz8BNcUjyxYXFlFA/index_1332x720.m3u8
+
+# ===== Western filmek =====
+#EXTINF:-1,Bosszú El Pasoban-Ace High (1968)
+#EXTGRP:Filmek Western
+https://hls2-cdn31.cloudlionscdn.com/hls/AVo67agOxZhMywLv4pfRUVvfCcp7gb/index_2548x1080.m3u8
+#EXTINF:1,Az inkák kincse
+#EXTGRP:Filmek Western
+https://hls2-cdn31.cloudlionscdn.com/hls/o4iPfhGQYeBKSLsPksuUyaJJe1OVje/index_640x480.m3u8
+#EXTINF:1,Fakó lovas 1985
+#EXTGRP:Filmek Western
+https://hls2-cdn30.strmupcdn.cc/hls/7dKqgnYcR7iGRrxHHIR0lj3mNN45Zg/index_1752x720.m3u8
+
+# ===== Háborús filmek =====
+#EXTINF:-1,A Fedezék (2024)
+#EXTGRP:Filmek Háborús
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/dMQjoUDizGlZ1orGyp408qesmNeBIR/index_1156x480.m3u8
+
+#EXTINF:-1,Ameddig a lábam bírja (2001)
+#EXTGRP:Filmek Háborús
+https://hls1-cdn29.cloudlionscdn.com/hls/Gn3qqwJYjcx7B0R8TebgCrqrftMkLx/index_1994x1080.m3u8
+
+#EXTINF:-1,Corelli kapitány mandolinja (2001)
+#EXTGRP:Filmek Háborús
+https://hls2-cdn25.cloudlionscdn.com/hls/V1q8evWkVAevWFzNH0wr8Sd4RG5MvS/index_1136x480.m3u8
+
+#EXTINF:-1,Pompei (2014)
+#EXTGRP:Filmek Háborús
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/zR0WywGEkBPsiK77hblwnIke8sAcxg/index_1720x720.m3u8
+
+#EXTINF:-1,Westerplatte-i csata (2013)
+#EXTGRP:Filmek Háborús
+https://hls2-cdn31.cloudlionscdn.com/hls/073Cdn6ig4XWG6ojzI9sVPORKihEDk/index_960x480.m3u8
+
+# ===== Kaland filmek =====
+#EXTINF:-1,Kőszív (2016)
+#EXTGRP:Filmek Kaland
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/kAzFlipU5wUZyl8cwOK14jHmNn35W9/index_1144x480.m3u8
+
+#EXTINF:-1,Zorro legendája
+#EXTGRP:Filmek Kaland
+https://s2-hls1-cdn43.rdr2games.com/hls/gVbLl84JeAT4MKpkx8UdMkcePriqh5/index_2542x1080.m3u8
+
+# ===== Rajzfilmek =====
+#EXTINF:-1,Pinokkio
+#EXTGRP:Rajzfilmek
+https://s2-hls2-cdn35.cloudlionscdn.com/hls/JnEHnBEFHVvZuQNDuVcfASHtdzFvK6/index_968x720.m3u8
+
+#EXTINF:-1,Nyúlhájkapitány (1954)
+#EXTGRP:Rajzfilmek
+https://s2-hls2-cdn34.cloudlionscdn.com/hls/NgU8uCtb5dX1gpqLjKAfKj0DZ6f8Kk/index_1920x1080.m3u8
+
+# ===== Bollywood filmek =====
+#EXTINF:-1,Zende Felügyelő
+#EXTGRP:Filmek Bollywood
+https://hls1-cdn38.cloudlionscdn.com/hls/WDphFF4eQa2HsvMLjPPrCgkUnQ94mV/index_1920x1080.m3u8
+
+#EXTINF:-1,Savi (2024)
+#EXTGRP:Filmek Bollywood
+https://hls1-cdn38.cloudlionscdn.com/hls/poOhOjE8aHKpemfdk49kkl7rpUfRtZ/index_2694x1080.m3u8
+
+# ===== Horror filmek =====
+#EXTINF:-1,Megtámadtak (2019)
+#EXTGRP:Horror
+https://hls2-cdn25.cloudlionscdn.com/hls/zi0pkGVKOszerpnvAGXEKWuEWMP3H8/index_1280x720.m3u8
+
+#EXTINF:-1,Préda (2019)
+#EXTGRP:Horror
+https://hls1-cdn29.cloudlionscdn.com/hls/MOcDOPXI3Tb2xAKUoOJflk2oLxaiUW/index_1728x720.m3u8
+
+# ===== Retro Zenék =====
+#EXTINF:-1,Dobos Attila szerzeményei 
+#EXTGR:Retro Zenék
+ https://hls2-cdn28.strmupcdn.cc/hls/WnZENWyNtNyxiqblrI89aNlXOR20KX/index_1920x1080.m3u8
